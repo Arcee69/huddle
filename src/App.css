@@ -118,7 +118,7 @@ a:hover {
 
 /* Mobile Phones */
 
-@media(min-width: 300px) and (max-width: 420px ) {
+@media(min-width: 300px) and (max-width: 566px ) {
   .body {
     overflow-x: hidden;
   }
